@@ -12,7 +12,7 @@ Based on http://ghou.st/, https://github.com/Ghoust-game
 ## Blocks
 <img src="images/ghoust.png" width="512" />
 
-## JS Code
+## Code
 ```
 input.onButtonPressed(Button.A, function () {
     playing = 1
