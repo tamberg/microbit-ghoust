@@ -12,7 +12,7 @@ Based on http://ghou.st/, https://github.com/Ghoust-game
 ## Blocks
 <img src="images/ghoust.png" width="512" />
 
-## Code
+## JS Code
 ```
 input.onButtonPressed(Button.A, function () {
     playing = 1
@@ -57,3 +57,9 @@ basic.forever(function () {
     basic.pause(500)
 })
 ```
+
+## How to play
+TODO
+
+## How it works
+TODO
