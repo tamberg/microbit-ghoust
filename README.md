@@ -59,7 +59,7 @@ basic.forever(function () {
 ```
 
 ## How to play
-- Use one micro:bit per player flashed with the above code
+- Use one micro:bit per player flashed with the above <a href="#code">code</a>
 - Reset your micro:bit to display the player ID and watch it start counting
 - Wait until all players see the same number which should equal the total number of players
 - Once everybody is ready, press the A button to become a ghoust, then try to shake other players' devices
