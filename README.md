@@ -59,7 +59,10 @@ basic.forever(function () {
 ```
 
 ## How to play
-TODO
+- Use one micro:bit per player flashed with the above code
+- Reset your micro:bit to display the player ID and watch it start counting
+- Wait until all players see the same number which should equal the total number of players
+- Once everybody is ready, press the A button to become a ghoust, then try to move other players' devices
 
 ## How it works
-TODO
+The above code is a distributed algorithm, it works peer to peer without a central coordinator :)
