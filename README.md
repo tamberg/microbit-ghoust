@@ -65,4 +65,4 @@ basic.forever(function () {
 - Once everybody is ready, press the A button to become a ghoust, then try to move other players' devices
 
 ## How it works
-The above code is a distributed algorithm, it works peer to peer without a central coordinator :)
+The above code is a distributed algorithm, it works peer-to-peer, without a central coordinator :)
