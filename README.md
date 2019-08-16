@@ -83,11 +83,14 @@ The above code is a distributed algorithm, it works peer-to-peer, without a cent
 ### Getting a "unique" device ID
 <a href="#on-start">On start</a> your device picks a random _id_ between 0 and _n_ (e.g. n = 1000, n >> number of devices).
 
-### Broadcasting your device ID
+### Broadcasting your ID and status
 <a href="#forever">Forever</a>, your device broadcasts (via radio) its _id_ and _alive_ status which is either 1 (alive) or 0 (not alive).
 
-### Keeping track of other IDs
+### Keeping track of other devices
 <a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's _id_ and _alive_ status and updates its list.
 
-### Detecting that you won
+### Detecting that you're out
+<a href="#on-shake">On shale</a>, the device knows immediately, that it is no longer alive.
+
+### Detecting that you win
 A device knows it won, if it's alive, and all other devices in its list are not alive.
