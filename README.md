@@ -78,13 +78,13 @@ basic.forever(function () {
 - Once everybody is ready, press the A button to become a ghoust, then try to shake other players' devices.
 
 ## How it works
-The above code is a distributed algorithm, it works peer-to-peer, without a central coordinator :)
+The <a href="#code">code</a> is a distributed, peer-to-peer algorithm, without a central coordinator :)
 
 ### Getting a "unique" device ID
 <a href="#on-start">On start</a> your device picks a random _id_ between 0 and _n_ (e.g. n = 1000, n >> number of devices).
 
 ### Broadcasting your ID and status
-<a href="#forever">Forever</a>, your device broadcasts (via "Bluetooth" radio) its _id_ and _alive_ status which is either 1 (alive) or 0 (not alive).
+<a href="#forever">Forever</a>, your device broadcasts (via Bluetooth radio) its _id_ and _alive_ status which is either 1 (alive) or 0 (not alive).
 
 ### Keeping track of other devices
 <a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's _id_ and _alive_ status and updates its list.
