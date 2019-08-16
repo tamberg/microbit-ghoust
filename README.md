@@ -81,15 +81,15 @@ basic.forever(function () {
 The above code is a distributed algorithm, it works peer-to-peer, without a central coordinator :)
 
 ### Getting a "unique" device ID
-<a href="#on-start">On start</a> your device picks a random ID between 0 and n (e.g. 1000).
+<a href="#on-start">On start</a> your device picks a random _id_ between 0 and _n_ (e.g. 1000).
 
-The upper limit has to be &gt;&gt; than the number of players, to keep the probability of collisions low.
+The upper limit _n_ has to be &gt;&gt; than the number of players, to keep the probability of collisions low.
 
 ### Broadcasting your device ID
-<a href="#forever">Forever</a>, your device broadcasts its ID and alive status which is either 1 (alive) or 0 (not alive).
+<a href="#forever">Forever</a>, your device broadcasts its _id_ and _alive_ status which is either 1 (alive) or 0 (not alive).
 
 ### Keeping track of other IDs
-<a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's ID and alive status and updates its list.
+<a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's _id_ and _alive_ status and updates its list.
 
 ### Who's the winner?
 A device knows it won, if it's alive, and all other devices in its list are not alive.
