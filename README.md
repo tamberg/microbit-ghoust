@@ -78,7 +78,7 @@ basic.forever(function () {
 - Once everybody is ready, press the A button to become a ghoust, then try to shake other players' devices.
 
 ## How it works
-The <a href="#code">code</a> is a distributed, peer-to-peer algorithm, without a central coordinator :)
+<a href="#code">The code</a> is a distributed, peer-to-peer algorithm, without a central coordinator :)
 
 ### Getting a "unique" device ID
 <a href="#on-start">On start</a> your device picks a random _id_ between 0 and _n_ (e.g. n = 1000, n >> number of devices).
