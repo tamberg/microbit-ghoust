@@ -80,17 +80,11 @@ basic.forever(function () {
 ## How it works
 The above code is a distributed algorithm, it works peer-to-peer, without a central coordinator :)
 
-### On start
-<img src="images/ghoust-onstart.png" width="512" />
+### Getting a device specific ID
+<a href="#on-start">On start</a> your device picks a random ID between 0 and 1000.
 
-### Forever
-<img src="images/ghoust-forever.png" width="512" />
+### Broadcasting your device ID
+<a href="#forever">Forever</a>, your device broadcasts its ID and alive status which is either 1 (alive) or 0 (not alive).
 
-### On radio
-<img src="images/ghoust-onradio.png" width="512" />
-
-### On button
-<img src="images/ghoust-onbutton.png" width="512" />
-
-### On shake
-<img src="images/ghoust-onshake.png" width="512" />
+### Keeping track of other IDs
+<a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's ID and alive status and updates its list.
