@@ -84,7 +84,7 @@ The above code is a distributed algorithm, it works peer-to-peer, without a cent
 <a href="#on-start">On start</a> your device picks a random _id_ between 0 and _n_ (e.g. n = 1000, n >> number of devices).
 
 ### Broadcasting your device ID
-<a href="#forever">Forever</a>, your device broadcasts its _id_ and _alive_ status which is either 1 (alive) or 0 (not alive).
+<a href="#forever">Forever</a>, your device broadcasts (via radio) its _id_ and _alive_ status which is either 1 (alive) or 0 (not alive).
 
 ### Keeping track of other IDs
 <a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's _id_ and _alive_ status and updates its list.
