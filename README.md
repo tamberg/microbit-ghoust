@@ -81,7 +81,7 @@ basic.forever(function () {
 The above code is a distributed algorithm, it works peer-to-peer, without a central coordinator :)
 
 ### Getting a device specific ID
-<a href="#on-start">On start</a> your device picks a random ID between 0 and 1000.
+<a href="#on-start">On start</a> your device picks a random ID between 0 and n (e.g. 1000).
 
 ### Broadcasting your device ID
 <a href="#forever">Forever</a>, your device broadcasts its ID and alive status which is either 1 (alive) or 0 (not alive).
