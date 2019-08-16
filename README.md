@@ -88,3 +88,6 @@ The above code is a distributed algorithm, it works peer-to-peer, without a cent
 
 ### Keeping track of other IDs
 <a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's ID and alive status and updates its list.
+
+### Who's the winner?
+A device knows it won, if it's alive, and all other devices in its list are not alive.
