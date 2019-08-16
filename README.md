@@ -10,14 +10,19 @@ Based on http://ghou.st/, https://github.com/Ghoust-game
 <img src="images/ide.png" width="512" />
 
 ## Blocks
+### On start
 <img src="images/ghoust-onstart.png" width="512" />
 
+### Forever
 <img src="images/ghoust-forever.png" width="512" />
 
+### On radio
 <img src="images/ghoust-onradio.png" width="512" />
 
+### On button
 <img src="images/ghoust-onbutton.png" width="512" />
 
+### On shake
 <img src="images/ghoust-onshake.png" width="512" />
 
 ## Code
