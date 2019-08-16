@@ -91,5 +91,5 @@ The upper limit _n_ has to be &gt;&gt; than the number of players, to keep the p
 ### Keeping track of other IDs
 <a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's _id_ and _alive_ status and updates its list.
 
-### Who's the winner?
+### Detecting that you won
 A device knows it won, if it's alive, and all other devices in its list are not alive.
