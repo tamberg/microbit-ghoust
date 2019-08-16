@@ -90,7 +90,7 @@ The above code is a distributed algorithm, it works peer-to-peer, without a cent
 <a href="#on-radio">On radio</a>, if a broadcast message was received, your device reads the remote device's _id_ and _alive_ status and updates its list.
 
 ### Detecting that you're out
-<a href="#on-shake">On shale</a>, the device knows immediately, that it is no longer alive.
+<a href="#on-shake">On shake</a>, the device knows immediately that it is no longer alive.
 
 ### Detecting that you win
 A device knows it won, if it's alive, and all other devices in its list are not alive.
