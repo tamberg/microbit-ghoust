@@ -119,6 +119,10 @@ Here's a <a href="designs/ghoust-chaya.dxf">design</a> for Chaya bottles.
 
 <img src="images/ghoust-chaya-4.jpg" width="512" />
 
+Connect the wires, align the adapter with the battery plug.
+
+<img src="images/ghoust-chaya-4b.jpg" width="512" />
+
 Strap the Micro:bit to the adapter with a zip tie.
 
 <img src="images/ghoust-chaya-5.jpg" width="512" />
