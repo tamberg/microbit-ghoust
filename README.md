@@ -139,4 +139,6 @@ Squeeze the top to add the Micro:bit, re-assemble the bottle.
 
 <img src="images/ghoust-chaya-11.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-12.jpg" width="250" />
 
+That's it! See <a href="#how-to-play">how to play</a>.
+
 <img src="images/ghoust-chaya-13.jpg" width="512" />
