@@ -106,18 +106,20 @@ Cut off the bottom part of the bottle.
 
 <img src="images/ghoust-chaya-1.jpg" width="512" />
 
-Make a small vertical cut as shown.
+Then make a short, vertical cut as shown.
 
 <img src="images/ghoust-chaya-2.jpg" width="512" />
 
-This allows you to re-assemble the bottle
+Squeze the parts to re-assemble the bottle.
 
 <img src="images/ghoust-chaya-3.jpg" width="512" />
 
 ### Use a laser-cut adapter
-Here's design for Chaya bottles.
+Here's a <a href="designs/ghoust-chaya.dxf">design</a> for Chaya bottles.
 
 <img src="images/ghoust-chaya-4.jpg" width="512" />
+
+Strap the Micro:bit to the adapter with a zip tie.
 
 <img src="images/ghoust-chaya-5.jpg" width="512" />
 
