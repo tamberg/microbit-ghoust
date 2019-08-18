@@ -97,4 +97,4 @@ A device knows it won, if it's alive, and all other devices in its list are not 
 
 ## Make an enclosure
 ### Cut a pet bottle
-<img src="images/ghoust-chaya-0.png" width="512" />
+<img src="images/ghoust-chaya-0.jpg" width="512" />
