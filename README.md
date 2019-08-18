@@ -96,7 +96,6 @@ basic.forever(function () {
 A device knows it won, if it's alive, and all other devices in its list are not alive.
 
 ## Make an enclosure
-We use a Chaya bottle.
 
 ### Cut a pet bottle
 Pierce a hole and cut along the label.
@@ -113,4 +112,27 @@ Make a small vertical cut as shown.
 
 This allows you to re-assemble the bottle
 
-(TODO: image)
+<img src="images/ghoust-chaya-3.jpg" width="512" />
+
+### Use a laser-cut adapter
+Here's design for Chaya bottles.
+
+<img src="images/ghoust-chaya-4.jpg" width="512" />
+
+<img src="images/ghoust-chaya-5.jpg" width="512" />
+
+<img src="images/ghoust-chaya-6.jpg" width="512" />
+
+<img src="images/ghoust-chaya-7.jpg" width="512" />
+
+<img src="images/ghoust-chaya-8.jpg" width="512" />
+
+<img src="images/ghoust-chaya-9.jpg" width="512" />
+
+<img src="images/ghoust-chaya-10.jpg" width="512" />
+
+<img src="images/ghoust-chaya-11.jpg" width="512" />
+
+<img src="images/ghoust-chaya-12.jpg" width="512" />
+
+<img src="images/ghoust-chaya-13.jpg" width="512" />
