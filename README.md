@@ -94,3 +94,7 @@ basic.forever(function () {
 
 ### Detecting that you win
 A device knows it won, if it's alive, and all other devices in its list are not alive.
+
+## Make an enclosure
+### Cut a pet bottle
+<img src="images/ghoust-chaya-0.png" width="512" />
