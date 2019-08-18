@@ -133,13 +133,10 @@ Pierce two small holes in the cover to add the speaker.
 
 Put the wires through the bottle and tie them together.
 
-<img src="images/ghoust-chaya-9.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-10.jpg" width="250" />
+<img src="images/ghoust-chaya-10.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-9.jpg" width="250" />
 
+Squeeze the top to add the Micro:bit, re-assemble the bottle.
 
-<img src="images/ghoust-chaya-10.jpg" width="512" />
-
-<img src="images/ghoust-chaya-11.jpg" width="512" />
-
-<img src="images/ghoust-chaya-12.jpg" width="512" />
+<img src="images/ghoust-chaya-11.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-12.jpg" width="250" />
 
 <img src="images/ghoust-chaya-13.jpg" width="512" />
