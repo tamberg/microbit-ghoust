@@ -129,7 +129,12 @@ Apply hot glue to both sides and place the battery.
 
 Pierce two small holes in the cover to add the speaker.
 
-<img src="images/ghoust-chaya-8.jpg" width="250" /> <img src="images/ghoust-chaya-9.jpg" width="150" />
+<img src="images/ghoust-chaya-8.jpg" width="512" />
+
+Put the wires through the bottle and tie them together.
+
+<img src="images/ghoust-chaya-9.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-10.jpg" width="250" />
+
 
 <img src="images/ghoust-chaya-10.jpg" width="512" />
 
