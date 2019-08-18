@@ -100,14 +100,17 @@ We use a Chaya bottle.
 
 ### Cut a pet bottle
 Pierce a hole and cut along the label.
+
 <img src="images/ghoust-chaya-0.jpg" width="512" />
 
 Cut off the bottom part of the bottle.
+
 <img src="images/ghoust-chaya-1.jpg" width="512" />
 
 Make a small vertical cut as shown.
+
 <img src="images/ghoust-chaya-2.jpg" width="512" />
 
 This allows you to re-assemble the bottle
-(TODO: image)
 
+(TODO: image)
