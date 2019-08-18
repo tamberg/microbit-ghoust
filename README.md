@@ -131,14 +131,16 @@ Apply hot glue to both sides and place the battery.
 
 <img src="images/ghoust-chaya-6.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-7.jpg" width="250" />
 
-Pierce two small holes in the cover to add the speaker.
+### Add the speaker and button
+Pierce small holes in the cover to add the speaker and button.
 
 <img src="images/ghoust-chaya-8.jpg" width="512" />
 
-Put the wires through the bottle and tie them together.
+Put the wires through the bottle, connect and tie them together.
 
 <img src="images/ghoust-chaya-10.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-9.jpg" width="250" />
 
+### Switch it on and start playing
 Squeeze the top to add the Micro:bit, re-assemble the bottle.
 
 <img src="images/ghoust-chaya-11.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-12.jpg" width="250" />
