@@ -140,7 +140,7 @@ Put the wires through the bottle, connect and tie them together.
 
 <img src="images/ghoust-chaya-10.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-9.jpg" width="250" />
 
-### Assemble it on and start playing
+### Switch it on and start playing
 Switch it on, then squeeze the top to add the Micro:bit and re-assemble the bottle.
 
 <img src="images/ghoust-chaya-11.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-12.jpg" width="250" />
