@@ -97,7 +97,7 @@ A device knows it won, if it's alive, and all other devices in its list are not 
 
 ## Make an enclosure
 
-### Cut a pet bottle
+### Cut a PET bottle
 Pierce a hole and cut along the label.
 
 <img src="images/ghoust-chaya-0.jpg" width="512" />
