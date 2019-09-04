@@ -44,7 +44,7 @@ radio.onReceivedValueDeprecated(function (remoteId, remoteAlive) {
     if (win) {
         basic.showIcon(IconNames.Heart)
     } else if (!(playing)) {
-        basic.showNumber(friends)
+        basic.showNumber(friends + 1)
     }
 })
 input.onGesture(Gesture.Shake, function () {
@@ -60,7 +60,7 @@ let alive = 0
 let playing = 0
 radio.setGroup(1)
 playing = 0
-let n = 1000
+let n = 300
 let id = "" + Math.randomRange(0, n)
 alive = 1
 for (let i = 0; i < n; i++) {
@@ -83,7 +83,7 @@ basic.forever(function () {
 <a href="#code">The code</a> implements a simple, distributed algorithm, without a central coordinator :)
 
 ### Getting a "unique" device ID
-<a href="#on-start">On start</a> your device picks a random _id_ between 0 and _n_ (e.g. n = 1000, n >> number of devices).
+<a href="#on-start">On start</a> your device picks a random _id_ between 0 and _n_ (e.g. n = 300, n >> number of devices).
 
 ### Broadcasting your ID and status
 <a href="#forever">Forever</a>, your device broadcasts (via Bluetooth radio) its _id_ and _alive_ status which is either 1 (alive) or 0 (not alive).
