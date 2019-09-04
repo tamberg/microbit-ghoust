@@ -2,6 +2,8 @@
 
 Based on http://ghou.st/, https://github.com/Ghoust-game
 
+Here's a video of the original game.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=35liQTgUH04
 " target="_blank"><img src="http://img.youtube.com/vi/35liQTgUH04/0.jpg" 
 alt="The original Ghou.st game" width="240" height="180" border="10" /></a>
