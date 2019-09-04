@@ -1,10 +1,12 @@
 # Ghou.st for the micro:bit
 
-Here is video of the original <a href="http://ghou.st/">Ghou.st</a> game (which is <a href="https://github.com/Ghoust-game">open source</a>).
+Here is video of the original <a href="http://ghou.st/">Ghou.st</a> game.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=35liQTgUH04
 " target="_blank"><img src="http://img.youtube.com/vi/35liQTgUH04/0.jpg" 
 alt="The original Ghou.st game" width="240" height="180" border="10" /></a>
+
+(It is <a href="https://github.com/Ghoust-game">open source</a>).
 
 ## Get started
 - Open https://makecode.microbit.org/
