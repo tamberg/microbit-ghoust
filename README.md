@@ -141,7 +141,7 @@ Put the wires through the bottle, connect and tie them together.
 <img src="images/ghoust-chaya-10.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-9.jpg" width="250" />
 
 ### Add code for the speaker and button
-In addition to <a href="#code">the code</a> above, you need the following 
+In addition to <a href="#code">the code</a> above, add the following block to handle the button.
 
 <img src="images/ghoust-onpulsed.png" width="512" />
 
