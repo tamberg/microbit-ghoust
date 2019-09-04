@@ -140,7 +140,23 @@ Put the wires through the bottle, connect and tie them together.
 
 <img src="images/ghoust-chaya-10.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-9.jpg" width="250" />
 
-### Switch it on and start playing
+### Add code for the speaker and button
+In addition to <a href="#code">the code</a> above, you need the following 
+
+<img src="images/ghoust-onpulsed.png" width="512" />
+
+```
+pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
+    if (playing == 0) {
+        playing = 1
+        basic.showIcon(IconNames.Ghost)
+    } else {
+        control.reset()
+    }
+})
+```
+
+### Switch on the Micro:bit and start playing
 Switch it on, then squeeze the top to add the Micro:bit and re-assemble the bottle.
 
 <img src="images/ghoust-chaya-11.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-12.jpg" width="250" />
