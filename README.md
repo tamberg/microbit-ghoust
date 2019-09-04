@@ -1,6 +1,6 @@
 # Ghou.st for the micro:bit
 
-Here is video of the original <a href="http://ghou.st/">Ghou.st</a> game.
+Here is a video of the original <a href="http://ghou.st/">Ghou.st</a> game.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=35liQTgUH04
 " target="_blank"><img src="http://img.youtube.com/vi/35liQTgUH04/0.jpg" 
