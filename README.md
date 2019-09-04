@@ -152,8 +152,8 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
     if (playing == 0) {
         playing = 1
         basic.showIcon(IconNames.Ghost)
-    } else {
-        control.reset()
+    } else { // playing == 1
+        control.reset() // sets playing to 0
     }
 })
 ```
