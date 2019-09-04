@@ -112,10 +112,6 @@ Then make a short, vertical cut as shown.
 
 <img src="images/ghoust-chaya-2.jpg" width="512" />
 
-Squeeze the parts to re-assemble the bottle.
-
-<img src="images/ghoust-chaya-3.jpg" width="512" />
-
 ### Use a laser-cut adapter
 Here's a <a href="designs/ghoust-chaya.dxf">design</a> for Chaya bottles.
 
