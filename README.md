@@ -1,8 +1,6 @@
 # Ghou.st for the micro:bit
 
-Based on http://ghou.st/, https://github.com/Ghoust-game
-
-Here is video of the original Ghou.st game.
+Here is video of the original <a href="http://ghou.st/">Ghou.st</a> game (which is <a href="https://github.com/Ghoust-game">open source</a>).
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=35liQTgUH04
 " target="_blank"><img src="http://img.youtube.com/vi/35liQTgUH04/0.jpg" 
