@@ -10,6 +10,7 @@ Based on http://ghou.st/, https://github.com/Ghoust-game
 <img src="images/ide.png" width="512" />
 
 ## Blocks
+The program consists of the following blocks.
 ### On start
 <img src="images/ghoust-onstart.png" width="512" />
 
