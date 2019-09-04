@@ -113,7 +113,7 @@ Then make a short, vertical cut as shown.
 <img src="images/ghoust-chaya-2.jpg" width="512" />
 
 ### Use a laser-cut adapter
-Here's a <a href="designs/ghoust-chaya.dxf">design</a> for Chaya bottles.
+Use an adapter, to fit the Micro:bit into the bottle - here's a <a href="designs/ghoust-chaya.dxf">design</a> for Chaya bottles.
 
 <img src="images/ghoust-chaya-4.jpg" width="512" />
 
