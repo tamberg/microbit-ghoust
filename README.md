@@ -6,6 +6,8 @@ Here is a video of the original <a href="http://ghou.st/">Ghou.st</a> game.
 " target="_blank"><img src="http://img.youtube.com/vi/35liQTgUH04/0.jpg" 
 alt="The original Ghou.st game" width="240" height="180" border="10" /></a>
 
+This "clean room" code is MIT licensed, not based on the <a href="https://github.com/Ghoust-game">original</a>.
+
 ## Get started
 - Open https://makecode.microbit.org/
 - Connect the micro:bit via USB
