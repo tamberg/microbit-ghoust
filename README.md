@@ -112,7 +112,7 @@ Then make a short, vertical cut as shown.
 
 <img src="images/ghoust-chaya-2.jpg" width="512" />
 
-Squeze the parts to re-assemble the bottle.
+Squeeze the parts to re-assemble the bottle.
 
 <img src="images/ghoust-chaya-3.jpg" width="512" />
 
@@ -137,6 +137,10 @@ Apply hot glue to both sides and place the battery.
 Pierce small holes in the cover to add the speaker and button.
 
 <img src="images/ghoust-chaya-8.jpg" width="512" />
+
+Solder crocodile clip wires to the pins - don't melt the cap!
+
+<img src="images/ghoust-chaya-8a.jpg" width="512" />
 
 Put the wires through the bottle, connect and tie them together.
 
