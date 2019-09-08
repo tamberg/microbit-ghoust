@@ -150,6 +150,10 @@ Put the wires through the bottle, and connect them to the Micro:bit.
 
 <img src="images/ghoust-chaya-assembly.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wiring-top.jpg" width="250" />
 
+Make sure the wires are connected right, run some test code to verify.
+
+<img src="images/ghoust-chaya-top.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wired.jpg" width="250" />
+
 ### Add code for the button
 In addition to <a href="#code">the code</a> above, add the following block.
 
