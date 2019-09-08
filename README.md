@@ -144,11 +144,11 @@ Cut two crocodile clip wires in half and remove the insulation.
 
 Solder the wires to the pins - take care not to melt the cap.
 
-<img src="images/ghoust-chaya-8b.jpg" width="512" />
+<img src="images/ghoust-chaya-soldering.jpg" width="512" />
 
 Put the wires through the bottle, connect and tie them together.
 
-<img src="images/ghoust-chaya-10.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-9.jpg" width="250" />
+<img src="images/ghoust-chaya-assembly.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wiring-top.jpg" width="250" />
 
 ### Add code for the button
 In addition to <a href="#code">the code</a> above, add the following block.
