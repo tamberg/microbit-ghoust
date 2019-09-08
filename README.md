@@ -131,7 +131,7 @@ Loosely strap the Micro:bit to the adapter with a zip tie.
 
 Apply hot glue to both sides and place the battery.
 
-<img src="images/ghoust-chaya-6.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-7.jpg" width="250" />
+<img src="images/ghoust-chaya-battery-hotglue.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-battery.jpg" width="250" />
 
 ### Add a button and a buzzer
 Pierce small holes in the bottle cap to add a button and a buzzer.
