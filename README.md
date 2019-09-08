@@ -123,11 +123,11 @@ Use an adapter, to fit the Micro:bit into the bottle - here's a <a href="designs
 
 Connect the wires, align the adapter with the battery plug.
 
-<img src="images/ghoust-chaya-4b.jpg" width="512" />
+<img src="images/ghoust-chaya-back.jpg" width="512" />
 
 Loosely strap the Micro:bit to the adapter with a zip tie.
 
-<img src="images/ghoust-chaya-5.jpg" width="512" />
+<img src="images/ghoust-chaya-front.jpg" width="512" />
 
 Apply hot glue to both sides and place the battery.
 
