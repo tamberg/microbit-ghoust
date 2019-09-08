@@ -142,6 +142,10 @@ Cut two crocodile clip wires in half and remove the insulation.
 
 <img src="images/ghoust-chaya-8a.jpg" width="512" />
 
+Put the button and buzzer legs through the holes to mount them.
+
+<img src="images/ghoust-chaya-button-legs.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-button-mounted.jpg" width="250" />
+
 Solder the wires to the pins - take care not to melt the cap.
 
 <img src="images/ghoust-chaya-soldering.jpg" width="512" />
