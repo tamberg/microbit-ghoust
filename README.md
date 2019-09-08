@@ -146,7 +146,7 @@ Solder the wires to the pins - take care not to melt the cap.
 
 <img src="images/ghoust-chaya-soldering.jpg" width="512" />
 
-Put the wires through the bottle, connect and tie them together.
+Put the wires through the bottle, and connect them to the Micro:bit.
 
 <img src="images/ghoust-chaya-assembly.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wiring-top.jpg" width="250" />
 
@@ -167,12 +167,12 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
 ```
 
 ### Add code for the buzzer
-
+TODO
 
 ### Switch on the Micro:bit and start playing
 Switch it on, then squeeze the top to add the Micro:bit and re-assemble the bottle.
 
-<img src="images/ghoust-chaya-11.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-12.jpg" width="250" />
+<img src="images/ghoust-chaya-11.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-done.jpg" width="250" />
 
 That's it! You are ready <a href="#how-to-play">to play</a>.
 
