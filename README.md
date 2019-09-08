@@ -140,7 +140,7 @@ Pierce small holes in the bottle cap to add a button and a buzzer.
 
 Cut two crocodile clip wires in half and remove the insulation.
 
-<img src="images/ghoust-chaya-wire.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-soldered.jpg" width="250" />
+<img src="images/ghoust-chaya-wire.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wiring-bottom.jpg" width="250" />
 
 Solder the wires to the pins - take care not to melt the cap.
 
@@ -152,7 +152,7 @@ Put the wires through the bottle, and connect them to the micro:bit.
 
 Make sure the wires are connected right<sup>*</sup>, run some test code to verify.
 
-<img src="images/ghoust-chaya-wiring-bottom.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-test.jpg" width="250" />
+<img src="images/ghoust-chaya-soldered.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-test.jpg" width="250" />
 
 <sup>*</sup>Button connects to *3V* (any leg) and *Pin 1*. Buzzer  connects to *GND* (short leg) and *Pin 2*.
 
