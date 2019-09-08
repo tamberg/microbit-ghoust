@@ -175,7 +175,7 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
 ```
 
 ### Add code for the buzzer
-TODO
+Add code for the buzzer based of <a href="https://github.com/tamberg/microbit-intro/blob/master/README.md#external-buzzer">this example</a>.
 
 ### Switch on the micro:bit and start playing
 Switch it on, then squeeze the top to add the micro:bit and re-assemble the bottle.
