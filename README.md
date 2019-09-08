@@ -1,6 +1,10 @@
 # Ghou.st for the micro:bit
 
-Based on http://ghou.st/, https://github.com/Ghoust-game
+Here is a video of the <a href="https://github.com/Ghoust-game">original</a> <a href="http://ghou.st/">Ghou.st</a> game.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=35liQTgUH04
+" target="_blank"><img src="http://img.youtube.com/vi/35liQTgUH04/0.jpg" 
+alt="The original Ghou.st game" width="240" height="180" border="10" /></a>
 
 ## Get started
 - Open https://makecode.microbit.org/
@@ -112,12 +116,8 @@ Then make a short, vertical cut as shown.
 
 <img src="images/ghoust-chaya-2.jpg" width="512" />
 
-Squeze the parts to re-assemble the bottle.
-
-<img src="images/ghoust-chaya-3.jpg" width="512" />
-
 ### Use a laser-cut adapter
-Here's a <a href="designs/ghoust-chaya.dxf">design</a> for Chaya bottles.
+Use an adapter, to fit the Micro:bit into the bottle - here's a <a href="designs/ghoust-chaya.dxf">design</a> for Chaya bottles.
 
 <img src="images/ghoust-chaya-4.jpg" width="512" />
 
@@ -125,7 +125,7 @@ Connect the wires, align the adapter with the battery plug.
 
 <img src="images/ghoust-chaya-4b.jpg" width="512" />
 
-Strap the Micro:bit to the adapter with a zip tie.
+Loosely strap the Micro:bit to the adapter with a zip tie.
 
 <img src="images/ghoust-chaya-5.jpg" width="512" />
 
@@ -133,14 +133,22 @@ Apply hot glue to both sides and place the battery.
 
 <img src="images/ghoust-chaya-6.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-7.jpg" width="250" />
 
-### Add the speaker and button
-Pierce small holes in the cover to add the speaker and button.
+### Add a button and a buzzer
+Pierce small holes in the bottle cap to add a button and a buzzer.
 
 <img src="images/ghoust-chaya-8.jpg" width="512" />
 
+Cut two crocodile clip wires in half and remove the insulation.
+
+<img src="images/ghoust-chaya-8a.jpg" width="512" />
+
+Solder the wires to the pins - take care not to melt the cap.
+
+<img src="images/ghoust-chaya-soldering.jpg" width="512" />
+
 Put the wires through the bottle, connect and tie them together.
 
-<img src="images/ghoust-chaya-10.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-9.jpg" width="250" />
+<img src="images/ghoust-chaya-assembly.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wiring-top.jpg" width="250" />
 
 ### Add code for the button
 In addition to <a href="#code">the code</a> above, add the following block.
@@ -157,6 +165,9 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
     }
 })
 ```
+
+### Add code for the buzzer
+
 
 ### Switch on the Micro:bit and start playing
 Switch it on, then squeeze the top to add the Micro:bit and re-assemble the bottle.
