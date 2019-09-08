@@ -154,7 +154,7 @@ Make sure the wires are connected right<sup>*</sup>, run some test code to verif
 
 <img src="images/ghoust-chaya-wiring-bottom.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-test.jpg" width="250" />
 
-<sup>*</sup>Button connects to *3V* (any leg) and *Pin 1*. Buzzer  connects to *GND* (short leg) and *Pin 2*.
+<sup>*</sup>Button connects to *3V* (any leg) and *Pin 1*. Buzzer to *GND* (short leg) and *Pin 2*.
 
 ### Add code for the button
 In addition to <a href="#code">the code</a> above, add the following block.
