@@ -146,6 +146,8 @@ Solder the wires to the pins - take care not to melt the cap.
 
 <img src="images/ghoust-chaya-soldering.jpg" width="512" />
 
+### Insert and connect the wires
+
 Put the wires through the bottle, and connect them to the micro:bit.
 
 <img src="images/ghoust-chaya-assembly.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wiring-top.jpg" width="250" />
