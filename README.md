@@ -150,9 +150,11 @@ Put the wires through the bottle, and connect them to the micro:bit.
 
 <img src="images/ghoust-chaya-assembly.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wiring-top.jpg" width="250" />
 
-Make sure the wires are connected right, run some test code to verify.
+Make sure the wires are connected right<sup>*</sup>, run some test code to verify.
 
 <img src="images/ghoust-chaya-wiring-bottom.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-test.jpg" width="250" />
+
+<sup>*</sup>) Button connects to *Pin 1* and *3V*. Buzzer  connects to *GND* (short leg) and *Pin 2*.
 
 ### Add code for the button
 In addition to <a href="#code">the code</a> above, add the following block.
