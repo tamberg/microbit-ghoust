@@ -140,7 +140,7 @@ Pierce small holes in the bottle cap to add a button and a buzzer.
 
 Cut two crocodile clip wires in half and remove the insulation.
 
-<img src="images/ghoust-chaya-button-wire.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-button-soldered.jpg" width="250" />
+<img src="images/ghoust-chaya-wire.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-soldered.jpg" width="250" />
 
 Solder the wires to the pins - take care not to melt the cap.
 
