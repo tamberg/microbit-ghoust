@@ -177,7 +177,22 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
 ```
 
 ### Add buzzer code to the game
-Add code for the buzzer, e.g. to indicate "game over", based on <a href="https://github.com/tamberg/microbit-intro/blob/master/README.md#external-buzzer">this example</a>.
+Add code for the buzzer to <a href="#code">the code</a> above, e.g. to indicate "game over".
+
+```
+// existing code ...
+input.onGesture(Gesture.Shake, function () {
+    if (playing) {
+        alive = 0
+        basic.showIcon(IconNames.No)
+        // new code for buzzer >>
+        pins.digitalWritePin(DigitalPin.P1, 1)
+        basic.pause(500)
+        pins.digitalWritePin(DigitalPin.P1, 0)
+        // << end of buzzer code
+    }
+})
+```
 
 ### Switch on the micro:bit and start playing
 Switch it on, then squeeze the top to add the micro:bit and re-assemble the bottle.
