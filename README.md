@@ -117,7 +117,7 @@ Then make a short, vertical cut as shown.
 <img src="images/ghoust-chaya-2.jpg" width="512" />
 
 ### Use a laser-cut adapter
-Here's a <a href="designs/ghoust-chaya.dxf">design</a> to fit the Micro:bit into Chaya bottles.
+Here's a <a href="designs/ghoust-chaya.dxf">design</a> to fit the micro:bit into Chaya bottles.
 
 <img src="images/ghoust-chaya-4.jpg" width="512" />
 
@@ -125,7 +125,7 @@ Connect the wires, align the adapter with the battery plug.
 
 <img src="images/ghoust-chaya-adapter-back.jpg" width="512" />
 
-Loosely strap the Micro:bit to the adapter with a zip tie.
+Loosely strap the micro:bit to the adapter with a zip tie.
 
 <img src="images/ghoust-chaya-adapter-front.jpg" width="512" />
 
@@ -146,7 +146,7 @@ Solder the wires to the pins - take care not to melt the cap.
 
 <img src="images/ghoust-chaya-soldering.jpg" width="512" />
 
-Put the wires through the bottle, and connect them to the Micro:bit.
+Put the wires through the bottle, and connect them to the micro:bit.
 
 <img src="images/ghoust-chaya-assembly.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-wiring-top.jpg" width="250" />
 
@@ -173,8 +173,8 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
 ### Add code for the buzzer
 TODO
 
-### Switch on the Micro:bit and start playing
-Switch it on, then squeeze the top to add the Micro:bit and re-assemble the bottle.
+### Switch on the micro:bit and start playing
+Switch it on, then squeeze the top to add the micro:bit and re-assemble the bottle.
 
 <img src="images/ghoust-chaya-11.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-done.jpg" width="250" />
 
