@@ -156,9 +156,11 @@ Make sure the wires are connected right<sup>*</sup>, run some test code to verif
 
 <img src="images/ghoust-chaya-wiring-bottom.jpg" width="250" />&nbsp;&nbsp;&nbsp;<img src="images/ghoust-chaya-test.jpg" width="250" />
 
-<sup>*</sup>Button connects to *3V* (any leg) and *Pin 2*. Buzzer to *GND* (short leg) and *Pin 1*.
+<sup>*</sup>The button connects to *3V* (any leg) and *Pin 2*.
 
-### Add code for the button
+The buzzer goes to *GND* (short leg) and *Pin 1*.
+
+### Add button code to the game
 In addition to <a href="#code">the code</a> above, add the following block.
 
 <img src="images/ghoust-onpulsed.png" width="512" />
@@ -174,8 +176,8 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
 })
 ```
 
-### Add code for the buzzer
-Add code for the buzzer based of <a href="https://github.com/tamberg/microbit-intro/blob/master/README.md#external-buzzer">this example</a>.
+### Add buzzer code to the game
+Add code for the buzzer, e.g. to indicate "game over", based on <a href="https://github.com/tamberg/microbit-intro/blob/master/README.md#external-buzzer">this example</a>.
 
 ### Switch on the micro:bit and start playing
 Switch it on, then squeeze the top to add the micro:bit and re-assemble the bottle.
