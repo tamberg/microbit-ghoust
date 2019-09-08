@@ -177,7 +177,7 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
 ```
 
 ### Add buzzer code to the game
-Add code for the buzzer to <a href="#code">the code</a> above, e.g. to indicate "game over".
+Add code for the buzzer, e.g. to indicate "game over".
 
 ```
 // existing code ...
