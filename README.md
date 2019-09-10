@@ -172,6 +172,9 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
         playing = 1
         basic.showIcon(IconNames.Ghost)
     } else { // playing == 1
+        alive = 0
+        radio.sendValue(id, 0)
+        basic.pause(1000)
         control.reset() // sets playing to 0
     }
 })
