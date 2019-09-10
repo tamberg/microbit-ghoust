@@ -7,9 +7,10 @@ Here is a video of the <a href="https://github.com/Ghoust-game">original</a> <a 
 alt="The original Ghou.st game" width="240" height="180" border="10" /></a>
 
 ## Get started
-- Open https://makecode.microbit.org/
-- Connect the micro:bit via USB
-- Save file to "USB Drive"
+- Open the editor https://makecode.microbit.org/
+- Connect the micro:bit to your computer via USB
+- Download the .hex file to the "MICROBIT" drive
+- Wait for the micro:bit's LED to stop blinking
 
 <img src="images/ide.png" width="512" />
 
