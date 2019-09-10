@@ -186,7 +186,7 @@ Add code for the buzzer, e.g. to indicate "game over".
 ```
 // existing code ...
 input.onGesture(Gesture.Shake, function () {
-    if (playing) {
+    if (playing && alive) {
         alive = 0
         basic.showIcon(IconNames.No)
         // new code for buzzer >>
