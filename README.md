@@ -171,6 +171,7 @@ pins.onPulsed(DigitalPin.P2, PulseValue.High, function () {
     if (playing == 0) {
         playing = 1
         basic.showIcon(IconNames.Ghost)
+        basic.pause(500) // debounce button
     } else { // playing == 1
         control.reset() // sets playing to 0
     }
