@@ -206,6 +206,4 @@ Switch it on, then squeeze the top to add the micro:bit and re-assemble the bott
 
 That's it! You are ready <a href="#how-to-play">to play</a>.
 
-<img src="images/ghoust-chaya-13.jpg" width="512" />
-
 <img src="images/ghoust.jpg" width="512" />
